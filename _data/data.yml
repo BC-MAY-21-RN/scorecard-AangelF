@@ -13,7 +13,7 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: Aangel.Flores.R@gmail.com
-  phone:
+  phone: 312 167 4957
   website: # No agregar http://
   linkedin: aangelfr
   github: AangelF
@@ -44,7 +44,7 @@ sidebar:
     - item: Flexibility
       link: # dejar en blanco
       
-    - item: Creativity
+    - item: Curiosity
       link: # dejar en blanco
       
     - item: Time Management
@@ -79,14 +79,7 @@ educationcomplete:
       Programming technician.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-experiences:
-
-
-
-
-
-
-
+# experiences:
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -98,10 +91,10 @@ skills:
 
   toolset:
     - name: JavaScript
-      level: 60%
+      level: 70%
 
     - name: ReactNative
-      level: 50%
+      level: 70%
 
     - name: CSS
       level: 80%
@@ -113,7 +106,7 @@ skills:
       level: 20%
       
     - name: UX/UI
-      level: 30%
+      level: 40%
 
 # NO MODIFICAR
 footer: >
