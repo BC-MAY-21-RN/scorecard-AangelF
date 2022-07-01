@@ -85,9 +85,13 @@ skills:
     - name: ReactNative
       level: 70%
 
-    - name: CSS
+    - name: HTML
       level: 80%
-	@@ -113,7 +106,7 @@ skills:
+      
+    - name: CSS
+      level: 80% 
+      
+    - name: Flutter
       level: 20%
 
     - name: UX/UI
