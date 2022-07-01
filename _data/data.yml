@@ -21,27 +21,34 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
+  
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
       level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
       link: # dejar en blanco
+      
     - item: Team Work
       link: # dejar en blanco
       
     - item: Flexibility
       link: # dejar en blanco
 
-    - item: Curiosity
+    - item: Creativity
       link: # dejar en blanco
 
     - item: Time Management
       link: # dejar en blanco
+      
+    - item: Curiosity
+      link: # dejar en blanco
+      
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -50,25 +57,38 @@ career-profile:
     I'm an internet technology engineering student and junior level programmer, I work with imaginative solutions. I really like create beatifull interfaces because i think 
     in these times, the functionality and good interfaces need to be one. 
     I like listen electronic music and learn about desings in front.
+    
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: React Native Bootcamp
-    university: BrightCoders Academy
-    time: 2021 Nov - 2022 Mar
-    details: |
   - degree: Bachelor Degree
     university: Facultad de Telematica (Colima, Mexico)
     time: 2019 - current
     details: |
       Engineering on Internet Technologies.
-      
+  
+  - degree: React Native Bootcamp
+    university: BrightCoders Academy
+    time: 2021 Nov - 2022 Mar
+    details: |
+      Bootcamp in React Native.
+    
   - degree: High school 
     university: CBTIs 19 (Colima, Mexico)
     time: 2016 Aug - 2019 Jun
     details: |
       Programming technician.
+      
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-# experiences:
+experiences:
+  - role: Web Developer
+    time: 2022 - Current
+    company: Constitutional Social Service at Universidad de Colima
+    details: |
+      I am a JS Developer. I work with Front-End and Back-End 
+      frameworks to create a little proyect in team. Share 
+      my experience with others and learn from others. And acredit 
+      my Constitutional Social Service.
+      
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
